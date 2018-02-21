@@ -1,0 +1,23 @@
+{
+  "name": "sproutcore-slicing",
+  "version": "1.0.0",
+  "description": "Plugin to use image slicing with SproutCore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sproutcore/sproutcore-slicing.git"
+  },
+  "keywords": [
+    "sproutcore",
+    "slicing"
+  ],
+  "author": "Maurits Lamers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sproutcore/sproutcore-slicing/issues"
+  },
+  "homepage": "https://github.com/sproutcore/sproutcore-slicing#readme"
+}
